@@ -1,3 +1,9 @@
-cat /dev/location > /dev/null &
+---
+title: ish
+---
 
-/usr/sbin/sshd
+``` bash
+$ cat /dev/location > /dev/null &
+  /usr/sbin/sshd
+```
+
