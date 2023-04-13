@@ -1,3 +1,10 @@
+---
+title: Belbin
+date: 2023-04-13
+tags:
+---
+
+
 Construction
 Composition
 Confidence
